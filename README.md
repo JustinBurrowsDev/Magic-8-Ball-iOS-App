@@ -13,7 +13,7 @@ Before I wrote a line of code I wrote out what I wanted to happen step-by-step o
 * The basics of developing in xcode
 * Manipulate images using the view controller
 * How to work with arrays in swift
-* The basics of the UIKit
+* The basics of the UI Kit
 
 
 ![App Screen Shot](8ball.png)
