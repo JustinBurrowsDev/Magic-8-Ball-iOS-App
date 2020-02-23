@@ -1,13 +1,19 @@
 # Magic 8 Ball
 
-## My Goal
+## Challenges I Faced?
 
-To apply the skills I learned in the Dicee tutorial and make an app with functionality all by myself. No new concepts here. But flyin’ solo this time! It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer!
+I want to comprehend how to make app with functionality. It's one thing to simply follow a tutorial but it's a whole other thing to be able to take the tools that I learned and use them independently with my own creativity.
 
-## What I'll create
+## How Did I Over Come Those Challenges? 
 
-I'm going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+Before I wrote a line of code I wrote out what I wanted to happen step-by-step on a whiteboard. Once I had a general idea of how the program should work I began to take the logic that I wrote out in common english and translated into Swift bit by bit. By leveraging platforms like Google, YouTube, MDN docs, Stackoverflow, GitHub, online courses, and reference guides I was able to find the proper Swift methods and functions needed to complete the task and I programmed the 8 Ball accordingly.
+
+## What Did I Learn? 
+
+* The basics of developing in xcode
+* Manipulate images using the view controller
+* How to work with arrays in swift
+* The basics of the UIKit
 
 
-
-
+![App Screen Shot](8ball.png)
